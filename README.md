@@ -1,4 +1,4 @@
-### Hello World , I'm Leonardo Almeida
+### Hi, I'm Leonardo Almeida
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=I'm+Computer+Science+Student)](https://git.io/typing-svg)
 
